@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadaun90
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Development & Block Chain Development
+- 👀 I’m interested in MERN Stack Development & Block Chain Development
+- 🌱 I’m currently learning MERN Stack | Block Chain Development | Web 3.0 | Metaverse
 - 💞️ I’m looking to collaborate on full stack application development
 - 📫 How to reach me through my email: muhammadaun_90@hotmail.com
 
